@@ -1,3 +1,4 @@
 Please find below are the assumptions:
 1. If all non veg houses are filled, then student will be registered in veg boarding house
 2. Preference will be given to food preference then preference will be given to class
+3. First element in list contains total seats available in all boarding houses
